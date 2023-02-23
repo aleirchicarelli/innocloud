@@ -1,0 +1,22 @@
+{
+  "editor.accessibilityPageSize": 10,
+  "preview.preview.fontSize": 20,
+  "terminal.integrated.fontSize": 20,
+  "editor.fontSize": 20,
+  "editor.find.cursorMoveOnType": true,
+  "editor.find.addExtraSpaceOnTop": true,
+  "scm.inputFontSize": 20,
+  "scm.repositories.visible": 18,
+  "notebook.outputLineHeight": 28,
+  "markdown.preview.fontSize": 20,
+  "workbench.tree.indent": 18,
+  "workbench.view.alwaysShowHeaderActions": true,
+  "workbench.preferredHighContrastLightColorTheme": "Default High Contrast Light",
+  "editor.codeLensFontSize": 28,
+  "editor.inlayHints.fontSize": 28,
+  "editor.suggestFontSize": 0,
+  "screencastMode.mouseIndicatorSize": 20,
+  "debug.console.fontSize": 20,
+  "notebook.markup.fontSize": 0,
+  "window.zoomLevel": 1
+}

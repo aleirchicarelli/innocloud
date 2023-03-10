@@ -17,10 +17,6 @@ export const CardContent = styled.div`
     background-color: #DCDEDF;
     transform: matrix(#888888);
   }
-
-  ${media.tablet`
-   
-  `}
 `
 export const Icon = styled.img`
   height: 20%;

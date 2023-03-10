@@ -1,24 +1,21 @@
   import styled from "styled-components";
 
 export const Container = styled.div`
-  padding: 50px 100px;
   display: flex;
   flex-direction: column;
   height: 600px;
   position: relative;
+  margin-top: 100px;
   background-color: #02466c;
-  padding-top: 20px;
 `
 
 export const BlobBlue = styled.img`
-  height: 120px;
+  height: 170px;
   width: 100%;
-
   position: absolute;
-  top: -120px;
-  left: 0;
+  top: -170px;
+  left: 0; 
   z-index: 0;
-
   object-fit: cover;
   object-position: 0 0;
 `
@@ -31,9 +28,10 @@ export const Form = styled.div`
   align-items: center;  
 
   h2 {
-    width: 100%;
-    font-size: 25px;
+    width: 90%;
+    font-size: 30px;
     color: #EAC358;
+    margin-top: 50px;
   }
 `
 export const BoxForm = styled.div`

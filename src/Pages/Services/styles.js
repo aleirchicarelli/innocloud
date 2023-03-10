@@ -28,9 +28,4 @@ export const BoxCard = styled.div`
     grid-template-columns:  auto auto;
 
  `}
-
-  ${media.phone`
-    grid-template-columns:  auto;
-
- `}
 `

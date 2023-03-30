@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import { media } from "../../../config";
 
 export const CardContent = styled.div`
   background-color: white;

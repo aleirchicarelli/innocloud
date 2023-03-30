@@ -1,24 +1,22 @@
+import { Container } from 'react-bootstrap';
 import About from './Pages/About';
 import Contatos from './Pages/Contatos';
 import Footer from './Pages/Footer';
 import Home from './Pages/Home';
 import Navbar from './Pages/Navbar';
 import Services from './Pages/Services';
-import './App.css'
 
 
 function App() {
   return (
-    <div className="App">
+    <Container fluid style={{ backgroundColor: 'rgba(2, 70, 108, 0.9)', marginTop: -100, position: 'relative' }}>
       <Navbar />
-      <div className='background'>
-        <Home />
-        <About />
-      </div>
+      <Home />
+      <About />
       <Services />
       <Contatos />
       <Footer />
-    </div>
+    </Container>
 
   );
 }

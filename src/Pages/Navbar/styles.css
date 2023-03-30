@@ -1,0 +1,22 @@
+.nav {
+  height: 150px;
+  background-color: rgba(2, 70, 108, .6);
+}
+
+.menu {
+  background-color: rgba(2, 70, 108, .6);
+  margin-top: 35px;
+}
+.navItem {
+  color: #fff;
+}
+
+.logoImg {
+  width: 150px;
+}
+
+@media screen end (max-width: 340px) {
+  .logoImg {
+    width: 150px;
+  }  
+}

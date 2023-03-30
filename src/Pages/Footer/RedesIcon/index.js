@@ -6,7 +6,7 @@ import {
 function RedesIcon({icon, link, text}) {
   return (
     <RedesContainer>
-      <img src={icon} />
+      <img src={icon} alt='' />
       <a target='blank' href={link}>
         {text}
       </a>

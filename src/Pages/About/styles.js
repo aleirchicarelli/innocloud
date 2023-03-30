@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import { media } from "../../config";
 
 export const Container = styled.div`
   height: 790px;
